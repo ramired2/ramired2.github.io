@@ -1,0 +1,60 @@
+html {
+    font-family: Verdana;
+    
+}
+
+.mainTitleContent h1 {
+    background-color: #294C60;
+    height: 50px;
+    border-radius: 5px;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+}
+
+a {
+    color: #ADB6C4;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.Title {
+    color: #001B2E;
+    margin: 20px 0 0 0;
+    font-size: 20px;
+}
+
+.prevBlogContent {
+    margin-left: 20px;
+    overflow-wrap: break-word;
+}
+
+
+.currBlogContent {
+    margin-left: 20px;
+    overflow-wrap: break-word;
+}
+
+.currTitle {
+    font-size: 20px;
+    font-weight: 60px;
+    margin-top: 35px;
+}
+
+.timePosted {
+    font-size: 10px;
+    color: #294C60;
+    margin: 5px;
+}
+
+.prompt {
+    font-size: 15px;
+}
+
+.postText {
+    font-size: 13px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
